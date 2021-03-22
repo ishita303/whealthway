@@ -6951,7 +6951,7 @@ ul.trx_addons_list_parameters>li em {
 .scheme_side .menu_mobile_inner a:hover,
 .scheme_side .menu_mobile_inner .current-menu-ancestor>a,
 .scheme_side .menu_mobile_inner .current-menu-item>a {
-    color: #b6b0de
+    color: #fccfd9
 }
 .scheme_side .menu_mobile_inner .search_mobile .search_submit {
     color: #e9e9eb
@@ -10062,7 +10062,7 @@ ul.trx_addons_list_parameters>li em {
     background-color: transparent;
 }
 .scheme_dark .menu_mobile_inner {
-    background-color: #5a5386
+    background-color: #E66A63
 }
 .scheme_dark .menu_mobile_button {
     color: #ff194f
@@ -10087,7 +10087,7 @@ ul.trx_addons_list_parameters>li em {
 .scheme_dark .menu_mobile_inner a:hover,
 .scheme_dark .menu_mobile_inner .current-menu-ancestor>a,
 .scheme_dark .menu_mobile_inner .current-menu-item>a {
-    color: #b6b0de
+    color: #fccfd9
 }
 .scheme_dark .menu_mobile_inner .search_mobile .search_submit {
     color: #e9e9eb
